@@ -26,6 +26,8 @@
   height: 24px;
   object-fit: contain;
   color: #6c6b6b; /* fallback */  
+  margin-right: 0.4rem;
+ 
 }
 
 /* Animate from 0 to -50% because content is duplicated */  

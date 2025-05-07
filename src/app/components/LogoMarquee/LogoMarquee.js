@@ -42,9 +42,4 @@ const LogoMarquee = () => {
   );
 };
 
-export default LogoMarquee;
-
-
-
-
-
+export default LogoMarquee; 
